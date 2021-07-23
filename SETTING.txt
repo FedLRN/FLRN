@@ -8,3 +8,7 @@ TSSR--- Transformer Switches dataset --- 10 classes ---training set: 4 clients×
 
 Here,  Dataset setting is isolated classes.
 For example,   the Dataset setting of WDI scenario is: Random and Scratch classes (client 1); Loc and Center classes (client 2); Edge-Loc and Edge-Ring classes (client 3);  Near-Full and Donut classes (a new client). 
+
+Tip:
+Since ecci_sdk.py is an unpublished work, there is no public code here. 
+The FLRN work can be done through the MQTT protocol.
